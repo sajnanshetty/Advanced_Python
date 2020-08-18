@@ -1,4 +1,4 @@
-from qualean import Qualean
+from modules.qualean import Qualean
 import random
 from math import sqrt, isclose
 from decimal import Decimal, ROUND_HALF_EVEN, InvalidOperation

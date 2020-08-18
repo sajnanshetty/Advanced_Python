@@ -1,9 +1,6 @@
 import random
 from decimal import Decimal, ROUND_HALF_EVEN, InvalidOperation
 from math import isclose, sqrt
-import pdb
-#from cmath import sqrt
-
 
 class Qualean(object):
 

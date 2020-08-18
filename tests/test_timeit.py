@@ -1,4 +1,4 @@
-from timeit import *
+from modules.timeit import *
 import pytest
 import os
 
